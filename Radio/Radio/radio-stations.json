@@ -1,0 +1,69 @@
+[
+  {
+    "name": "RUSA New York (105.1 FM HD2)",
+    "url": "https://ott.streann.com/loadbalancer/services/public/radios-secure/62914705e4b049d166b5f85c/playlist.m3u8"
+  },
+
+  {
+    "name": "RUSA Philadelphia (102.1 FM HD2)",
+    "url": "https://ott.streann.com/loadbalancer/services/public/radios-secure/62bf4e58e4b04173733c5f25/playlist.m3u8"
+  },
+
+  {
+    "name": "RUSA Miami (103.5 FM HD2)",
+    "url": "https://ott.streann.com/loadbalancer/services/public/radios-secure/62bf4d21e4b04173733c5f18/playlist.m3u8"
+  },
+
+  {
+    "name": "Brooklyn FM",
+    "imageName": "http://static.etvnet.com/frontend/l2/images/radio/logos/brooklyn-fm.png",
+    "url": "https://stream.bfmradio.us/stream128"
+  },
+
+  {
+    "name": "FREEDOM FM",
+    "imageName": "http://static.etvnet.com/frontend/l2/images/radio/logos/freedom-fm.png",
+    "url": "https://us9.maindigitalstream.com/ssl/freedomfm"
+  },
+
+  {
+    "name": "Радио Филадельфия",
+    "imageName": "http://static.etvnet.com/frontend/l2/images/radio/logos/radio-philadelphya.png",
+    "url": "https://securestreams5.autopo.st:1806/stream"
+  },
+
+  {
+    "name": "Радио VOYAGE FM",
+    "imageName": "http://static.etvnet.com/frontend/l2/images/radio/logos/voyage.png",
+    "url": "https://s4.radio.co/s94d01769a/listen"
+  },
+
+  {
+    "name": "Радио Русская Реклама",
+    "imageName": "http://static.etvnet.com/frontend/l2/images/radio/logos/rus-reklama.png",
+    "url": "https://securestreams5.autopo.st:1844/stream"
+  },
+
+  {
+    "name": "Радио Megapolis",
+    "imageName": "http://static.etvnet.com/frontend/l2/images/radio/logos/megapolis.png",
+    "url": "http://192.163.233.47:8001/mp3"
+  },
+
+  {
+    "name": "Радио Recall",
+    "imageName": "http://static.etvnet.com/frontend/l2/images/radio/logos/recall.png",
+    "url": "https://c19.radioboss.fm:18069/stream"
+  },
+
+  {
+    "name": "Русское Радио",
+    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp"
+  },
+
+  {
+    "name": "Эльдорадио",
+    "url": "http://eldoradio128.streamr.ru"
+  }
+]
+
