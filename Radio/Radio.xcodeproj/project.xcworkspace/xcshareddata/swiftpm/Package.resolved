@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "diskstorage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shvets/DiskStorage",
+      "state" : {
+        "revision" : "4d85a65c779d6a65d54e8e4edcaf768204056263",
+        "version" : "1.0.2"
+      }
+    },
+    {
       "identity" : "files",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/JohnSundell/Files",
