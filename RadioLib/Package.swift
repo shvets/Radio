@@ -24,9 +24,9 @@ let package = Package(
 //        .package(name: "SimpleHttpClient", path: "../../YagaTiVi-base/SimpleHttpClient"),
         .package(url: "https://github.com/shvets/DiskStorage", from: "1.0.2"),
         //.package(name: "DiskStorage", path: "../../YagaTiVi-base/DiskStorage"),
-        .package(name: "media-player", path: "../../YagaTiVi-base/YagaTiVi/media-player"),
-        .package(name: "swiper", path: "../../YagaTiVi-base/YagaTiVi/swiper"),
-        .package(name: "site-builder", path: "../../YagaTiVi-base/YagaTiVi/site-builder")
+        .package(url: "https://github.com/shvets/media-player", from: "1.0.0"),
+        .package(url: "https://github.com/shvets/Swiper", from: "1.0.0"),
+        .package(name: "site-builder", path: "../../YagaTiVi/site-builder")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -38,7 +38,7 @@ let package = Package(
               //"SimpleHttpClient",
               "DiskStorage",
               "media-player",
-              "swiper",
+              .product(name: "swiper", package: "Swiper"),
               "site-builder"
             ]),
         .testTarget(
